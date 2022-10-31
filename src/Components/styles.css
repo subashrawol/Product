@@ -1,0 +1,122 @@
+.nav-ul  {
+    padding: 10px;
+    margin: 0px;
+    background-color: skyblue;
+ 
+}
+
+.nav-ul li  {
+    display: inline-block;
+    padding: 10px;
+
+}
+
+
+.nav-ul li a {
+color: white;
+text-decoration: none;
+}
+
+.footer-div{
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+}
+
+.register{
+  margin-left: 30%;
+}
+.register input{
+    display: block;
+   
+    padding: 7px;
+    color: black;
+    margin: 25px;
+   font-size: larger;
+    width: 300px;
+    border:1px solid skyblue;
+   
+    
+  
+}
+
+.appButton{
+    margin: 25px;
+    padding: 10px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+    width: 150px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+
+/* login styles */
+
+.login {
+    margin-left: 30%;
+    margin-top: 100px;
+
+}
+
+.nav-right{
+    text-align: right;
+}
+
+
+.inputBox{
+    display: block;
+   
+    padding: 7px;
+    color: black;
+    margin: 25px;
+   font-size: larger;
+    width: 300px;
+    border:1px solid skyblue;
+   
+}
+
+.img{
+    height: 50px;
+    width: 100px;
+    border-radius: 10%;
+}
+
+.product{
+    margin-left: 30%;
+}
+.validation{
+    color: red;
+    display: block;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+
+.show{
+    
+    margin-top: 30px;
+    text-align: center;
+}
+
+.show ul li {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    width: 150px;
+}
+.search{
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    background-color: white;
+
+}
